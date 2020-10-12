@@ -1,4 +1,11 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+```cmd
+cd %USERPROFILE/code # if in git cmd or powershell
+git add -A # stages changes
+git commit -m "my code message" # commits changes
+git push origin # pushes changes to github or origin (see origin with git remote -v)
+```
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
