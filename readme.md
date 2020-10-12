@@ -1,3 +1,12 @@
+commit changes in unix / bash
+```bash
+cd ~/code # if in git bash
+git add -A # stages changes
+git commit -m "my code message" # commits changes
+git push origin # pushes changes to github or origin (see origin with git remote -v)
+```
+
+commit changes in windows cmd/powershell
 ```cmd
 cd %USERPROFILE%/code &:: if in git cmd or powershell
 git add -A &:: stages changes
